@@ -1240,3 +1240,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Feb2025 23:04:59.144] [Server thread/DEBUG] [nonamecrackers2.witherstormmod.common.capability.WitherStormModChunkLoader/]: Loaded 0 chunks for initial loading sequence in ResourceKey[minecraft:dimension / minecraft:the_end]
 [18Feb2025 23:09:58.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Feb2025 23:09:58.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 23:14:58.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 23:14:58.908] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Feb2025 23:19:58.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Feb2025 23:19:58.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
